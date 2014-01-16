@@ -76,7 +76,7 @@ int main(int argc, char* argv[]) {
     }
 }
 
-void shell_service() { //child will run this and read, parse, execute
+void shell_service() { //child will run this and read, p5arse, execute
                        //the commands received from the client and then
                        //send them back through the connect_socket
     int i, receivedFromClient, status;
