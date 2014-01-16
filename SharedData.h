@@ -1,0 +1,2 @@
+#define MAX_LINE 65533
+#define ARRAY_SIZE MAX_LINE+2
